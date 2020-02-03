@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "726615123536",
+    "firebase_url": "https://ebusiness-a865b.firebaseio.com",
+    "project_id": "ebusiness-a865b",
+    "storage_bucket": "ebusiness-a865b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726615123536:android:d79a08f60d6c6de54fd355",
+        "android_client_info": {
+          "package_name": "com.example.ebusiness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726615123536-nsbc4633nbdgib5p2nulq9i8d7mb1n1m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ebusiness",
+            "certificate_hash": "9f18b4c31011b9aeb035e38f71e4b635df2c6936"
+          }
+        },
+        {
+          "client_id": "726615123536-susahl8n5vvttbog3f9cp9tdkuvvahru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwg0XdU-N9VMrgf_2wxXhoQsHpNB04hf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726615123536-susahl8n5vvttbog3f9cp9tdkuvvahru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
